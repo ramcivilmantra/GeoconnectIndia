@@ -1,0 +1,10 @@
+{
+  "name": "Remix GeoConnect India",
+  "description": "Digital directory \u0026 discovery platform for Indian geotechnical engineering agencies, laboratories, and drilling machine vendors.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
